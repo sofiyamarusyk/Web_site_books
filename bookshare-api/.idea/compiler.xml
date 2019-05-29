@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="bookshare-api" options="-parameters" />
+      <module name="bookshare-api" options="" />
     </option>
   </component>
 </project>
